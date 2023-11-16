@@ -1,7 +1,7 @@
 # Simple-GUI-FFMPEG-Python
 python code for FFMPEG
 
-This app is a simple Python code for convenient using of FFMAPEG.
+This app is a simple Python code for convenient using of FFMPEG.
 
 Easy convert video files.
 
