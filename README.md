@@ -7,7 +7,7 @@ Easy convert video files.
 
 Convert video (H.264, H.265, and VP9) by CPU and GPU, Rotate, Trim, Change speed, and convert to image and vice versa.
 
-In this code is used FFMPEG.
+In this code is used FFMPEG. For runnig this code, you need FFMPEG.exe.
 
 #FFMPEG: https://github.com/FFmpeg/FFmpeg
 
